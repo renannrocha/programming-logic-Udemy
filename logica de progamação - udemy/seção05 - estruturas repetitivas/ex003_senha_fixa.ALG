@@ -17,10 +17,7 @@ Inicio
       escreva("Senha Invalida! Tente novamente: ")
       leia(senha)
    fimenquanto
-   
-   se senha = 2002 entao
-      escreval
-      escreval("Acesso permitido!")
-   fimse
+
+   escreval("Acesso permitido!")
 
 Fimalgoritmo
