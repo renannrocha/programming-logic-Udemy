@@ -1,0 +1,8 @@
+como executar um progama pelo CMD : 
+
+
+1° - copia o caminho do seu arquivo ex : "C:\Users\renan\OneDrive\Área de Trabalho\logic\linguagem_C\pratica_aulas" .
+
+2° - no pronpt voce digita   :  cd (o caminho do seu arquivo )
+
+3° - aperta enter , você entrara na pasta do seu arquivo , apos isso e so digitar o nome do arquivo e ele executara o seu progama.
