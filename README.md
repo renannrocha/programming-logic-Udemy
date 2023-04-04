@@ -2,7 +2,7 @@
 
 
 <h2>Este repositório contém anotações, práticas e exercícios sobre Algoritmos e lógica de progamaçāo:</h2>
-<h3>ministração : prof. Nelio Alves</h3>
+<h3> ministrado e elaborado pelo Prof. Dr. Nelio Alves</h3>
 <br>
 
 <h2>Quais aprendizados serão obtidos ao final do curso : </h2>
