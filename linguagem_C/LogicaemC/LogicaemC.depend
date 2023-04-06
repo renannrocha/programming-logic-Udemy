@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680805377 source:c:\users\renan\onedrive\Área de trabalho\logic\linguagem_c\logicaemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
