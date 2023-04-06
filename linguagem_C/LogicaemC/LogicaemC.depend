@@ -1,6 +1,10 @@
 # depslib dependency file v1.0
-1680805377 source:c:\users\renan\onedrive\Área de trabalho\logic\linguagem_c\logicaemc\main.c
+1680806897 source:c:\users\renan\onedrive\Área de trabalho\logic\linguagem_c\logicaemc\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
+
+1680806859 source:c:\users\renan\onedrive\Área de trabalho\logic\linguagem_c\logicaemc\entradadedados.c
+	<stdio.h>
 	<string.h>
 
