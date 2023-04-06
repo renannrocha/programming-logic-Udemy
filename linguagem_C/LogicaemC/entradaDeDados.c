@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+/**<  */
 void limpar_entrada()
 {
     char c;
