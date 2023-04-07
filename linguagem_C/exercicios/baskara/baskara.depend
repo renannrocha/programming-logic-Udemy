@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680836027 source:c:\users\renan\onedrive\Área de trabalho\logic\linguagem_c\exercicios\baskara\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+

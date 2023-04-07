@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680832125 source:c:\users\renan\onedrive\Área de trabalho\logic\linguagem_c\exercicios\ex001_terreno\main.c
+	<stdio.h>
+	<string.h>
+

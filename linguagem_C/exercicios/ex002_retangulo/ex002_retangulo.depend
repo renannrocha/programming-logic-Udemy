@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680833657 source:c:\users\renan\onedrive\Área de trabalho\logic\linguagem_c\exercicios\ex002_retangulo\main.c
+	<stdio.h>
+	<math.h>
+
