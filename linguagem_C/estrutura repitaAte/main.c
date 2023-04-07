@@ -17,6 +17,7 @@ int main()
       scanf("%lf", &C);
       F = 9.0 * C / 5.0 + 32.0;
       printf("Equivalente em Fahrenheit: %.1lf\n", F);
+
       printf("Deseja repetir (s/n)? ");
       limpar_entrada();
       scanf("%c", &resp);
