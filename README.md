@@ -5,7 +5,7 @@
 <h3> ministrado e elaborado pelo Prof. Dr. Nelio Alves</h3>
 <br>
 
-<h2>Quais aprendizados serão obtidos ao final do curso : </h2>
+<h2> Aprendizados obtidos ao final do curso : </h2>
 
 <ul>
     <li><b>Variáveis, entrada, saída, processamento, estrutura sequencial, estrutura condicional, estruturas repetitivas, vetores e matrizes</b></li>
