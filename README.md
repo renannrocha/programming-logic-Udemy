@@ -11,22 +11,9 @@
     <li><b>Você vai aprender a lógica de programação de forma completa, de modo que depois consiga mudar de linguagem com facilidade</b></li>
     <li><b>Resolver mais de 50 exercícios, desde mais básicos até mais avançados, todos com correção no curso</b></li>
     <li><b>Aplicar todos conhecimentos e resolver todos exercícios nas linguagens C, C++, Python, C# e Java</b></li>
-</ul><br>
-<p>aprendendo de forma sólida, com aulas dinâmicas e práticas, todos os recursos de Lógica de Programação :</p>
-
-<ul>
-    <li><b>Variaveis</b></li>
-    <li><b>Entrada e saída de dados</b></li>
-    <li><b>Comando de atribuição (processamento)</b></li>
-    <li><b>Estrutura condicional</b></li>
-    <li><b>Estruturas repetitivas</b></li>
-    <li><b>Vetores</b></li>
-    <li><b>Matrizes</b></li>
-    <li><b>Testes de mesa</b></li>
-    <li><b>Depuração de programas</b></li>
 </ul>
 
-<hr>
+##
 
 <p>Para a explicação da lógica, nós utilizaremos uma linguagem didática, uma variação do "Portugol" ou "linguagem algorítmica", que é utilizada por vários autores e universidades, e vamos trabalhar de forma prática no computador usando a ferramenta VisualG.</p>
 
