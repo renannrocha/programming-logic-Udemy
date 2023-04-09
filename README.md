@@ -34,12 +34,12 @@
 
 <p>O melhor de tudo é que este não é apenas um curso, mas sim um agregado de vários cursos, pois além de aprender a lógica de programação, vamos aprender também todo conteúdo, e implementar todos exercícios, nas principais linguagens de programação utilizadas no mercado e universidades:</p><br>
 
-<img alt="Renan-C" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><br>
-
-<img alt="Renan-C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><br>
-
-<img alt="Renan-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
-
-<img alt="Renan-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><br>
-
-<img alt="Renan-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><br>
+<div align="left">
+ <div style="display: inline_block">
+    <img alt="Renan-C" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img alt="Renan-C++" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img alt="Renan-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="Renan-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img alt="Renan-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  </div>
+</div>
