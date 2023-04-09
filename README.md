@@ -7,10 +7,10 @@
 
 <ul>
     <li><b>Variáveis, entrada, saída, processamento, estrutura sequencial, estrutura condicional, estruturas repetitivas, vetores e matrizes</b></li>
-    <li><b>Você vai aprender de verdade e se tornar um(a) expert em Algoritmos e Lógica de Programação</b></li>
-    <li><b>Você vai aprender a lógica de programação de forma completa, de modo que depois consiga mudar de linguagem com facilidade</b></li>
-    <li><b>Resolver mais de 50 exercícios, desde mais básicos até mais avançados, todos com correção no curso</b></li>
-    <li><b>Aplicar todos conhecimentos e resolver todos exercícios nas linguagens C, C++, Python, C# e Java</b></li>
+    <li><b>Aprender de verdade e se tornar um(a) expert em Algoritmos e Lógica de Programação</b></li>
+    <li><b>Aprender a lógica de programação de forma completa, de modo que depois consiga mudar de linguagem com facilidade</b></li>
+    <li><b>Resolvendo mais de 50 exercícios, desde mais básicos até mais avançados, todos com correção no curso</b></li>
+    <li><b>Aplicando todos conhecimentos e resolver todos exercícios nas linguagens C, C++, Python, C# e Java</b></li>
 </ul>
 
 ##
