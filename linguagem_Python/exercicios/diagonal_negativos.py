@@ -1,21 +1,8 @@
-m = int(input("Qual a ordem da matriz ? "))
+# aluno: Marcio Renan // matricula : 202208950035
+numeros = []
+for i in range(10):
+    numero = int(input(f'Digite o {i+1}° valor: '))
+    numeros.append(numero)
 
-
-mat = [[0 for x in range(0, m)] for x in range(0, m)]
-
-for i in range(0, m):
-    for j in range(0, m):
-        mat[i][j] = int(input(f"Elemento [{i},{j}]: "))
-
-print()
-print("DIAGONAL PRINCIPAL:", end="")
-for i in range(0, m):
-    print(f"{mat[i][i]} ", end="")
-
-negativos = 0
-for i in range(0, m):
-    for j in range(0, m):
-        if mat[i][j] < 0:
-            negativos = negativos + 1
-print()
-print(f"Quantidade de negativos : {negativos}")
+soma = sum(numero ** 2 for numero in numeros)
+print(f'soma dos elementos da lista {soma}')
