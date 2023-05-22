@@ -1,6 +1,6 @@
 #include <iostream>
-#include <iomanip>
-#include <string>
+#include <iomanip> // formatação de casas decimais
+#include <string> // manipulação de texto
 
 using namespace std;
 
