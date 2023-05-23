@@ -17,9 +17,9 @@ int main()
     }
 
     soma = 0;
-    for(x ; x < y ; x++){
+    for(int i = x+1 ; i < y ; i++){
         if(x%2!=0){
-            soma = soma + x;
+            soma = soma + i;
         }
     }
 
