@@ -19,12 +19,11 @@ int main()
     cout << "digite a idade da .2a pessoa: ";
     cin >> idade2;
 
-    media = idade1 + idade2 / 2;
+    media = idade1 + idade2 / 2.0;
 
     cout << fixed << setprecision(2);
     cout << "\na idade media de " << nome1 << " e "
          << nome2 << " e " << media << endl;
-
 
     return 0;
 }
