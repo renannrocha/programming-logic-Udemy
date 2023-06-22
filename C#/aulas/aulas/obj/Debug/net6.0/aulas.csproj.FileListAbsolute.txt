@@ -1,0 +1,15 @@
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\bin\Debug\net6.0\aulas.exe
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\bin\Debug\net6.0\aulas.deps.json
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\bin\Debug\net6.0\aulas.runtimeconfig.json
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\bin\Debug\net6.0\aulas.dll
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\bin\Debug\net6.0\aulas.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\aulas.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\aulas.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\aulas.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\aulas.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\aulas.dll
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\refint\aulas.dll
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\aulas.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\aulas.genruntimeconfig.cache
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\aulas\aulas\obj\Debug\net6.0\ref\aulas.dll

@@ -1,0 +1,15 @@
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\bin\Debug\net6.0\primeiro_algoritmo.exe
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\bin\Debug\net6.0\primeiro_algoritmo.deps.json
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\bin\Debug\net6.0\primeiro_algoritmo.runtimeconfig.json
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\bin\Debug\net6.0\primeiro_algoritmo.dll
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\bin\Debug\net6.0\primeiro_algoritmo.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\primeiro_algoritmo.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\primeiro_algoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\primeiro_algoritmo.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\primeiro_algoritmo.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\primeiro_algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\primeiro_algoritmo.dll
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\refint\primeiro_algoritmo.dll
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\primeiro_algoritmo.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\primeiro_algoritmo.genruntimeconfig.cache
+C:\Users\renan\OneDrive\Área de Trabalho\programming-logic-Udemy\C#\primeiro_algoritmo\primeiro_algoritmo\obj\Debug\net6.0\ref\primeiro_algoritmo.dll
