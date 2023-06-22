@@ -28,3 +28,12 @@
     <img alt="Renan-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   </div>
 </div>
+
+<hr>
+
+<h5>meu certificado : </h5>
+<div align="left">
+    <img alt="Renan-C" height="400px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-6e23683a-38c2-4348-9186-131c74583fe2.jpg" />
+</div>
+
+
